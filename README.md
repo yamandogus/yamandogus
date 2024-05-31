@@ -1,4 +1,4 @@
-[![MasterHead](https://www.talentcoders.co/wp-content/uploads/2023/07/front-end.jpeg)
+![MasterHead](https://www.talentcoders.co/wp-content/uploads/2023/07/front-end.jpeg)
 <h1 align="center">Hi 👋, I'm Doğuş Yaman</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
