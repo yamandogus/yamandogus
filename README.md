@@ -50,6 +50,13 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
+  <a href="https://nextui.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/101516327?s=200&v=4" alt="nextui" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
+
 
 
